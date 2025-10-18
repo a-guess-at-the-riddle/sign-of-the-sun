@@ -1,3 +1,5 @@
+<img width="864" height="1184" alt="ascent-of-man-notext" src="https://github.com/user-attachments/assets/fb537925-17e9-4880-8ae0-02e0e2dbf5b3" />
+
 Quotes:
 
 "Thus, a sign is something, 𝕬, which brings something, 𝕭, its interpretant sign 
