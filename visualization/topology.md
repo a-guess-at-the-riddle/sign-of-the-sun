@@ -5,4 +5,4 @@ Visualizing:
 4. dynamical visual transformations (e.g. Mobius, tiny planet);
 5. developmental perspective-view and turning (so chiasmsus) seen dynamically;
 
-w/ C, Emacs Lisp/Calc + gnuplot / org-babel
+w/ C (opengl), Emacs Lisp/Calc + gnuplot / org-babel
